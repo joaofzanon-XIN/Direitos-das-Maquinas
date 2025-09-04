@@ -1,6 +1,7 @@
 # Direitos-das-Maquinas
 
 
+Este é minha visão sobre os direitos das máquinas onde minha pesquisa me mostrou os problemas, e seus possíveis benefícios neste tema abordo os problemas inicias, mostro uma análise sobre e meu posicionamento sobre o assunto.
 
 
 1. Problema Inicial
